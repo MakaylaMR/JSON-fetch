@@ -115,16 +115,9 @@ Using fetch() on the frontend, request your gallery array using your JSON endpoi
 ## Heroku Deployment
 Link to Heroku app above under links.
 
-## Attributions
-
-| Author/Creator |                                              Original Work                                               |                                                                 License |
-| -------------- | :------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------: |
-| Steve Griffith         |                    [Youtube](https://www.youtube.com/watch?v=5WFyhsnU4Ik)                    |             N/A |
-| Smashicons   | [404 SVG](https://www.flaticon.com/free-icon/sad_396818?term=sad%20face&page=1&position=90&page=1&position=90&related_id=396818&origin=tag) | [License Summary](https://www.flaticon.com/free-icon/sad_396818?term=sad%20face&page=1&position=90&page=1&position=90&related_id=396818&origin=tag) |
-| Techdiaries Team        |                    [The sendFile() Method](https://www.techiediaries.com/express-sendfile-serve-static-files/)                    |             N/A |
 
 ## Attributions (in-class)
 
 | Person      |                                  Links/Contribution                                   |
 | ----------- | :----------------------------------------------------------------------: |
-| Vitaly Gins + Aidan O'Reilly | Sent link to for the .env video|
+|Aidan O'Reilly | Told me about `dayjs` and I could use that as another npm module. (Sent a screenshot of where he incuded `dayjs`)|
