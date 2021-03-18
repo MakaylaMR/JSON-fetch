@@ -15,7 +15,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.use('/',index)
 
 //custom 404
-app.use(function(req, res){
+app.use((req, res) => {
   res.status(404);
   res.sendFile(path.join(__dirname,'public/404.html'));
 });
